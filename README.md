@@ -4,3 +4,5 @@ Set up:
   2. run "Install-Module -Name AudioDeviceCmdlets", click yes to all. 
   3. run "Get-Audiodevice -list"
   4. Note the Index #'s associated with each different audio device. You'll need to open up the power shell script and change the numbers according to the index  # given. 
+
+The batch file that comes with this can be run to execute the powershell script. 
